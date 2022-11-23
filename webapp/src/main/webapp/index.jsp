@@ -15,6 +15,10 @@
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
+    
+    <label for="Name"><b>My tu me amas?</b></label>
+    <input type="text" placeholder="Enter yes or no" name="Name" id="Name" required>
+    <br>
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
@@ -31,7 +35,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
+   <h1> Thankyou, te amo Manuel </h1>
 
   
 </form>
