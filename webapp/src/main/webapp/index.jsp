@@ -17,7 +17,7 @@
     <br>
     
     <label for="Name"><b>tu me amas?</b></label>
-    <input type="text" placeholder="Enter yes or no" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter yes, no or yo la amo a mi manera" name="Name" id="Name" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
