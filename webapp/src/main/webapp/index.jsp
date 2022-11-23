@@ -16,7 +16,7 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
     
-    <label for="Name"><b>My tu me amas?</b></label>
+    <label for="Name"><b>tu me amas?</b></label>
     <input type="text" placeholder="Enter yes or no" name="Name" id="Name" required>
     <br>
 
